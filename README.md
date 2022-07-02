@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies and collaborating with brilliant individuals
 - 🌱 I’m currently learning everything and I don't know where to start
 - 📫 How to reach me
--             vincenisraelprias@gmail.com
+-             vincentisraelprias@gmail.com
 -             facebook.com/davncntcode
 -             youtube.com/c/DaVincentCode
 
