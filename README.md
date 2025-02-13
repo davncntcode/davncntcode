@@ -1,12 +1,50 @@
-- 👋 Hi, I’m @davncntcode
-- 👀 I’m interested in learning new technologies and collaborating with brilliant individuals
-- 🌱 I’m currently learning everything and I don't know where to start
-- 📫 How to reach me
--             vincentisraelprias@gmail.com
--             facebook.com/davncntcode
--             youtube.com/c/DaVincentCode
+# Hi there, I'm Vincent! 👋
 
-<!---
-davncntcode/davncntcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 🚀 I'm a passionate **Software Engineer** who loves crafting efficient and elegant solutions to complex problems. With a strong analytical mindset and a knack for problem-solving, I strive to turn ideas into impactful software.
+
+---
+
+### 🌟 About Me:
+- 💻 4+ years of experience in **web** and **desktop development**.
+- 🔍 Always learning and exploring new technologies.
+- 🎯 Focused on creating clean, scalable, and maintainable code.
+
+---
+
+### 🛠️ Technologies & Tools:
+
+#### Programming Languages:
+- **C#** (💪 Specializing in .NET Framework)
+- **JavaScript** (React, Node.js)
+
+#### Tools & Platforms:
+- Visual Studio 🛠️
+- Git & GitHub 🌐
+- SQL Server 📊
+
+#### Interests:
+- 🕸️ Web Development
+- ⚙️ Desktop Applications
+- 🔬 Exploring Robotics and Electronics for tutorials
+
+---
+
+### 🌐 Connect with Me:
+- LinkedIn: [https://www.linkedin.com/in/davncntcode/](#)
+- Email: [vincentisraelprias@gmail.com](#)
+
+---
+
+### 💡 Fun Fact:
+I'm currently creating a high-quality YouTube tutorial about IT stuffs to help freshmen students understand their applications better. 🎥📚
+
+---
+
+### 🔥 GitHub Stats:
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincent&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by! Let's build something amazing together. 💻✨
