@@ -16,16 +16,22 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Software Engineer** who lo
 #### Programming Languages:
 - **C#** (💪 Specializing in .NET Framework)
 - **JavaScript** (React, Node.js)
+- HTML/CSS
+- ASP.Net
+- PHP
+- SQL/MySQL
+- Arduino
+- C
 
 #### Tools & Platforms:
-- Visual Studio 🛠️
+- Visual Studio & Visual Studio Code 🛠️
 - Git & GitHub 🌐
 - SQL Server 📊
 
 #### Interests:
-- 🕸️ Web Development
+- 💻 Web Development 
 - ⚙️ Desktop Applications
-- 🔬 Exploring Robotics and Electronics for tutorials
+- 🤖 Exploring Robotics and Electronics for tutorials
 
 ---
 
@@ -37,7 +43,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Software Engineer** who lo
 
 ### 💡 Fun Fact:
 I'm currently creating a high-quality YouTube tutorial about IT stuffs to help freshmen students understand their applications better. 🎥📚
-
+- YouTube: [https://www.youtube.com/@DaVincentCode](#) 🕹️
 ---
 
 ### 🔥 GitHub Stats:
