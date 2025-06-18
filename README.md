@@ -46,11 +46,11 @@ I'm currently creating a high-quality YouTube tutorial about IT stuffs to help f
 - YouTube: [https://www.youtube.com/@DaVincentCode](https://www.youtube.com/@DaVincentCode) 🕹️
 ---
 
-### 🔥 GitHub Stats:
+<!-- ### 🔥 GitHub Stats:
 ![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=davncntcode&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davncntcode&layout=compact&theme=radical)
 
----
+--- -->
 
 Thanks for stopping by! Let's build something amazing together. 💻✨
