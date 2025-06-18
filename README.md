@@ -36,20 +36,20 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Software Engineer** who lo
 ---
 
 ### 🌐 Connect with Me:
-- LinkedIn: [https://www.linkedin.com/in/davncntcode/](#)
+- LinkedIn: [https://www.linkedin.com/in/davncntcode/](https://www.linkedin.com/in/davncntcode/)
 - Email: [vincentisraelprias@gmail.com](#)
 
 ---
 
 ### 💡 Fun Fact:
 I'm currently creating a high-quality YouTube tutorial about IT stuffs to help freshmen students understand their applications better. 🎥📚
-- YouTube: [https://www.youtube.com/@DaVincentCode](#) 🕹️
+- YouTube: [https://www.youtube.com/@DaVincentCode](https://www.youtube.com/@DaVincentCode) 🕹️
 ---
 
 ### 🔥 GitHub Stats:
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincent&show_icons=true&theme=radical)
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=davncntcode&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davncntcode&layout=compact&theme=radical)
 
 ---
 
